@@ -1,0 +1,57 @@
+.stack__box {
+    padding: 2em;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 50%;
+    margin: 1.5em auto;
+    transition: ease-in-out 300ms;
+}
+
+.stack__box:hover {
+    border: 1px solid var(--vinho);
+    background-color: var(--vinho);
+    color: white;
+}
+
+.stack__box:hover .stack__title, .stack__box:hover .stack__info{
+    color: white;
+}
+
+.stack__setor {
+    text-align: center;
+    margin-top: 2em;
+    font-size: 36px;
+    font-weight: 600;
+    color: black;
+}
+
+.stack__info {
+    color: #667985;
+    font-weight: 300;
+}
+
+.stack__title {
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 1em;
+}
+
+.stack__item {
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+
+.img__perfil {
+    border-radius: 15px 15px 15px 15px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    width: 15em;
+}
+
+.ficha {
+    padding: 0;
+}
+
+.ficha__box {
+    padding: 1em;
+}

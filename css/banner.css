@@ -1,0 +1,25 @@
+.banner {
+    padding: 7em;
+    text-align: center;
+}
+
+.banner__text {
+    font-weight: 600;
+    color: var(--vinho);
+}
+
+.banner__subtitle {
+    font-size: 48px;
+    color: var(--preto);
+    font-weight: 600;
+    margin: 1em 0;
+}
+
+.banner__description {
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--cinza);
+    line-height: 30px;
+    max-width: 800px;
+    margin: auto;
+}

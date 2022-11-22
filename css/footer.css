@@ -1,0 +1,52 @@
+.footer {
+    padding-bottom: 5em;
+    text-align: center;
+    background-color: #F9FAFB;
+    padding-top: 5em;
+}
+
+.footer__title {
+    font-size: 36px;
+    font-weight: 600;
+    color: black;
+}
+
+.footer__text {
+    font-size: 20px;
+    color: var(--cinza);
+    margin: 1em;
+}
+
+.footer__box {
+    margin: 1em;
+}
+
+#footer__mail {
+    margin: 1em;
+    padding: 1em;
+    width: 35%;
+    color: var(--cinza);
+    font-size: 16px;
+    border: 1px solid var(--cinza);
+    border-radius: 10px;
+}
+
+.footer__button {
+    background-color: var(--vinho);
+    border: 1px solid var(--vinho);
+    padding: 1em;
+    border-radius: 10px;
+    color: var(--branco);
+    transition: ease-in-out 300ms;
+}
+
+.footer__button:hover {
+    background-color: var(--branco-claro);
+    border: 1px solid var(--vinho);
+    color: var(--vinho);
+}
+
+.footer__copy {
+    color: var(--cinza-claro);
+    margin-top: 1em;
+}

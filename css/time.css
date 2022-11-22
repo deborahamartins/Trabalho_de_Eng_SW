@@ -1,0 +1,53 @@
+.time {
+    text-align: center;
+    background-color: rgba(196, 25, 25, 0.03);
+    border-radius: 15px;
+    margin: 5em;
+    padding: 2em;
+    border: 1px solid rgba(0, 0, 0, 0.03);
+    transition: 300ms ease-in-out;
+}
+
+.time:hover {
+    border: 1px solid black;
+    background-color: white;
+}
+
+.pessoas {
+    display: flex;
+    justify-content: center;
+}
+
+.pessoa_bloco {
+    margin: 1em;
+}
+
+.time__title {
+    color: var(--vinho);
+    font-weight: 600;
+    font-size: 14px;
+    margin: 1.5em;
+}
+
+.time__text {
+    font-size: 36px;
+    font-weight: 500;
+    color: black;
+    margin-bottom: 1em;
+}
+
+.time__person {
+    font-weight: 500;
+    margin: 1em;
+}
+
+.time__cargo {
+    font-size: 14px;
+    color: var(--cinza);
+    margin-bottom: 1.5em;
+}
+
+.time__image {
+    border-radius: 550px;
+    height: 80px;
+}

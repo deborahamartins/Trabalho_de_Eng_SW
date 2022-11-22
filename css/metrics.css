@@ -1,0 +1,31 @@
+.metrics {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.metrics__box {
+    margin: 0 1em 2em 1em;
+}
+
+.metrics__number {
+    font-size: 60px;
+    color: var(--vinho);
+    font-weight: 600;
+    text-align: start;
+}
+
+.metrics__title {
+    font-size: 18px;
+    font-weight: 500;
+    text-align: start;
+    margin: 1em 0;
+}
+
+.metrics__text {
+    font-weight: 400;
+    color: var(--cinza);
+    max-width: 300px;
+    min-width: 200px;
+    text-align: start;
+}
