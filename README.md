@@ -8,10 +8,9 @@
   <li>Déborah Martins</li>
 </ul>
 
-
 ### Objetivos do trabalho:
 
 <ul>
-  <li>Aprimorar conhecimentos acerca de GitHub e PivotalTracker</li>
-  <li>Conhecimentos em HTML e CSS</li>
+  <li>Deverá ser construído uma página web contendo uma foto de cada um dos integrantes do grupo
+com uma mini descrição.</li>
 </ul>
